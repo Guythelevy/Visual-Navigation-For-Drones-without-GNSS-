@@ -1,0 +1,33 @@
+# Data
+data/videos/
+data/telemetry/
+*.mp4
+*.avi
+*.srt
+
+# Results
+preprocessing_output/
+test_results/
+evaluation_results/
+navigation_results.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
