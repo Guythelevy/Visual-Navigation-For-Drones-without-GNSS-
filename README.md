@@ -37,7 +37,7 @@ Daniel Nazrknanu 322719501
 ## Algorithm Summaryy
 
 **Preprocessing:**
-1. Extract keyframes from reference video
+1. Extract keyframes from reference videos
 2. Compute AKAZE features and descriptors
 3. Build reference database with GPS labels
 
