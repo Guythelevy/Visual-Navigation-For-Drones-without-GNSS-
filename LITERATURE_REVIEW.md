@@ -1,6 +1,6 @@
 # Literature Review: Visual Navigation for Low-Flying Drones
 
-## Problem Definition
+## Problem Definitions
 Visual odometry/localization without GNSS using drone footage (20-200m altitude).
 
 ## Key Algorithms & Recent Work
