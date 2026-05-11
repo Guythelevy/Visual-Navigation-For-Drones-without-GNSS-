@@ -3,6 +3,10 @@
 ## Overview
 Real-time drone position estimation from video without GNSS, using preprocessing on reference flight data and visual features (keypoint matching, homography estimation).
 
+By: Guy Levy 322317918
+Daniel Nazrknanu 322719501
+
+
 ## Project Structure
 ```
 ├── LITERATURE_REVIEW.md         # Key algorithms & papers
@@ -30,7 +34,7 @@ Real-time drone position estimation from video without GNSS, using preprocessing
 ```
 
 
-## Algorithm Summary
+## Algorithm Summaryy
 
 **Preprocessing:**
 1. Extract keyframes from reference video
